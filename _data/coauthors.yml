@@ -1,9 +1,9 @@
 "ogi":
-  - firstname: ["Ognjen", "O.", "O. M.", "Ognjen Marjanovic"]
+  - firstname: ["Ognjen", "O.", "O. M.", "Ognjen Marjanovic", "Marjanovic, Ognjen"]
     url: https://research.manchester.ac.uk/en/persons/ognjen.marjanovic
 
 "simon":
-  - firstname: ["Simon", "S.", "S. W.", "Simon Watson"]
+  - firstname: ["Simon", "S.", "S. W.", "Simon Watson", "Watson, Simon"]
     url: https://research.manchester.ac.uk/en/persons/simon.watson
 
 "farshed":
@@ -11,7 +11,7 @@
     url: https://www.durham.ac.uk/staff/farshad-arvin/
 
 "barry":
-  - firstname: ["Barry", "B.", "B. L.", "Barry Lennox"]
+  - firstname: ["Barry", "B.", "B. L.", "Barry Lennox", "Lennox, Barry"]
     url: https://research.manchester.ac.uk/en/persons/barry.lennox
 
 "rosen":
