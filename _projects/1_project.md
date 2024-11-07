@@ -82,7 +82,7 @@ Here's the code for the last row of images above:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/VET_JFR.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
 <div class="caption">
