@@ -86,6 +86,15 @@ Here's the code for the last row of images above:
     </div>
 </div>
 <div class="caption">
-    A beautiful video showcasing the essence of the project.
+    VET video
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/dog_walking.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+</div>
+<div class="caption">
+    dog walking video
 </div>
 
