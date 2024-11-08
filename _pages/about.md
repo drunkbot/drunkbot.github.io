@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm Kanzhong Yao, currently enroalled as PhD student at the [Robotics for Extreme Environments Group](https://uomrobotics.com/), University of Manchester, supervised by Dr. Simon Watson and Dr. Ognjen Marjanovic. 
+I'm Kanzhong Yao, currently enrolled as PhD student at the [Robotics for Extreme Environments Group](https://uomrobotics.com/), University of Manchester, supervised by Dr. Simon Watson and Dr. Ognjen Marjanovic. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://uomrobotics.com/). You can put a picture in, too. The code is already in, just name your picture `prof_pic.png` and put it in the `img/` folder.
 
