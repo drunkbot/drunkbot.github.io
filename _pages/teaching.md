@@ -44,5 +44,5 @@ Organize your courses by years, topics, or universities, however you like!
     </div>
 </div>
 <div class="caption">
-    Best Robot and Best Conference Paper Awards at      Secondment to <a href="https://www.robotics.manchester.ac.uk/">Centre for Robotics and AI</a>, University of Manchester. 
+    Best Robot and Best Conference Paper Awards at <a href="https://www.robotics.manchester.ac.uk/">Centre for Robotics and AI</a>, University of Manchester. 
 </div>
