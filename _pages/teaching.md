@@ -20,7 +20,7 @@ Organize your courses by years, topics, or universities, however you like!
     </div>
 </div>
 <div class="caption">
-    Second prize at <a href="https://www.psrs.manchester.ac.uk/images/">Manchester Research Image Competition</a>
+    Second prize at <a href="https://www.psrs.manchester.ac.uk/images/">Manchester Research Image Competition</a>. The orignial file can be found here.
 </div>
 
 <div class="row">
