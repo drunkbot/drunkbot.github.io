@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm Kanzhong Yao, currently enrolled as PhD student at the [Robotics for Extreme Environments Group](https://uomrobotics.com/), University of Manchester, supervised by Dr. Simon Watson and Dr. Ognjen Marjanovic. I hold a Bachelor's degree in Vehicle Engineering and a Master's degree in Aerospace Engineering, now I'm working on robotics, specifically in multi-robot collaboration in extreme environments. 
+I'm Kanzhong Yao, currently enrolled as PhD student at the [Robotics for Extreme Environments Group](https://uomrobotics.com/), University of Manchester, supervised by Dr. [Simon Watson](https://research.manchester.ac.uk/en/persons/simon.watson) and Dr. [Ognjen Marjanovic](https://research.manchester.ac.uk/en/persons/ognjen.marjanovic). I hold a Bachelor's degree in Vehicle Engineering and a Master's degree in Aerospace Engineering, now I'm working on robotics, specifically in multi-robot collaboration in extreme environments. 
 
 During my PhD, I was awarded Turing Scheme 
 
