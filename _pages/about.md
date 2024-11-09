@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I'm Kanzhong Yao, currently enrolled as PhD student at the [Robotics for Extreme Environments Group](https://uomrobotics.com/), University of Manchester, supervised by Dr. [Simon Watson](https://research.manchester.ac.uk/en/persons/simon.watson) and Dr. [Ognjen Marjanovic](https://research.manchester.ac.uk/en/persons/ognjen.marjanovic). I hold a Bachelor's degree in Vehicle Engineering and a Master's degree in Aerospace Engineering, now I'm working on robotics, specifically in multi-robot collaboration in extreme environments. 
 
-During my PhD, I was awarded Turing Scheme 
+During my PhD, I've conducted a secondment at [Micro Underwater Robotics](https://www.tuhh.de/mum/forschung/forschungsgebiete-und-projekte/micro-underwater-robotics), Hamburg University of Technology, under the support of UK [Turing Scheme](https://www.turing-scheme.org.uk/) 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://uomrobotics.com/). You can put a picture in, too. The code is already in, just name your picture `prof_pic.png` and put it in the `img/` folder.
 
