@@ -4,7 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - MallARD_Pixhwak
-  - CAVES-simulation
-  - Mission-data
+  - EEEManchester/MallARD_Pixhwak
+  - drunkbot/CAVES-simulation
+  - drunkbot/Mission-data
+  - EEEManchester/sprint_control
+  - EEEManchester/visual_virtual_tether
 
