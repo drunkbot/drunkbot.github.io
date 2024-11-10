@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Gallary
-description: Materials for courses you taught. Replace this text with your description.
+description: This place displays the awards, key activities, and memorable moments.
 nav: true
 nav_order: 6
 ---
