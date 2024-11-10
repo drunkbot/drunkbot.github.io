@@ -27,7 +27,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    dog walking video
+    dog walking video   {% cite Yao2024 %}
 </div>
 
 <div class="row">
