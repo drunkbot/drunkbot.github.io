@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Cooperative Obstacle Avoidance
+description: This project was funded by RAICo1 and UK Atomic Energy Authority (UKAEA). PS. The figure with a man walking a dog is not a mistake.  
+img: assets/img/publication_preview/dog_walking.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
@@ -20,6 +20,15 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/dog_walking.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+</div>
+<div class="caption">
+    dog walking video
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
