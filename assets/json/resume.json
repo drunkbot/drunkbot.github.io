@@ -26,6 +26,14 @@
       "endDate": "2024-10-12",
       "summary": "Awarded as NEST fellow at the end of the project, helped develop the autonomous patrolling system, and solved the narrow passage navigation issue with the priority control algorithm.",
       "highlights": []
+    },    {
+      "name": "Hamburg University of Technology",
+      "position": "Robotic Researcher",
+      "url": "",
+      "startDate": "2022-01-31",
+      "endDate": "2022-03-20",
+      "summary": "Supported by UK Turing Scheme, developed image-based visual servoing switchable leader-follower control for heterogeneous multi-agent underwater robot system, result published in ICRA2023",
+      "highlights": []
     }
   ],
   "education": [
