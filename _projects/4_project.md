@@ -1,17 +1,20 @@
 ---
 layout: page
 title: Digital twin platform for cyber–physical robot fleets
-description: Mixed multi-robot fleet utilising a cyber-physical systems architecture in dynamic inspection, maintenance and repair missions.
+description: SARESE x RNE Research Sprint 2022.
 img: assets/img/1N3A6565.JPG
 importance: 3
 category: work
 ---
 
+<h2>Overview</h2>
+Development of mixed multi-robot fleet utilising a cyber-physical systems architecture in dynamic inspection, maintenance and repair missions. My role is to develop Tello Drone software for pre-inspecting simulated radioactive arenas, coordinating with multi-robot fleets, and interacting with a cyber system via ROS.
+
 <h2>Collaborators</h2>
 University of Glasgow, Bristol Robotics Laboratory, Sellafield Ltd, RAICo1 Lab
 
 <p>Outcome</p>
-Created a mixed multi-robot fleet utilising a cyber-physical systems architecture in a dynamic inspection, maintenance and repair mission.
+Created a mixed multi-robot fleet utilising a cyber-physical systems architecture in dynamic inspection, maintenance and repair missions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
