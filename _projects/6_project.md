@@ -13,6 +13,9 @@ Development on autonomous patrolling and priority control.
 
 Developed a priority control algorithm that allows multiple robots cooperatively navigate narrow paths, addressing a critical limitation of the previous system.
 
+<h2>Collaborators</h2>
+Dr Nobuto Matsuhira from the University of Tokyo, and Young-woon Song from Pohang University of Science and Technology.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/utokyo_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
