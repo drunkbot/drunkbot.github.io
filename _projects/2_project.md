@@ -2,7 +2,7 @@
 layout: page
 title: Cooperative Obstacle Avoidance
 description: This project was funded by RAICo1 and UK Atomic Energy Authority (UKAEA). 
-img: assets/img/publication_preview/obstacle.png
+img: assets/img/obstacle.png
 importance: 2
 category: work
 related_publications: true

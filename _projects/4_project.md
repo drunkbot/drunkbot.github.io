@@ -1,24 +1,28 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Digital twin platform for cyber–physical robot fleets
+description: Mixed multi-robot fleet utilising a cyber-physical systems architecture in dynamic inspection, maintenance and repair missions.
+img: assets/img/1N3A6565.JPG
 importance: 3
-category: fun
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<h2>Collaborators</h2>
+University of Glasgow, Bristol Robotics Laboratory, Sellafield Ltd, RAICo1 Lab
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<p>Outcome</p>
+Created a mixed multi-robot fleet utilising a cyber-physical systems architecture in a dynamic inspection, maintenance and repair mission.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/Tz_PNtG5CGE?si=zoj3DczYvm_kmCKz" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<h3>Subsection 1.1</h3>
+
+<p>Content of subsection 1.1.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
