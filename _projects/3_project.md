@@ -20,9 +20,11 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/ICRA23_0887.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include video.liquid path="assets/video/ICRA23_6.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
 <div class="caption">
