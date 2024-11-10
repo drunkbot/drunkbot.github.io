@@ -94,7 +94,7 @@ Here's the code for the last row of images above:
     </div>
 </div>
 <div class="caption">
-    VET video
+    VET video {% cite Yao2024a %}
 </div>
 
 

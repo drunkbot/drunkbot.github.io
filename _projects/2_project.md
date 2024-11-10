@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Cooperative Obstacle Avoidance
-description: This project was funded by RAICo1 and UK Atomic Energy Authority (UKAEA). PS. The figure with a man walking a dog is not a mistake.  
-img: assets/img/publication_preview/dog_walking.png
+description: This project was funded by RAICo1 and UK Atomic Energy Authority (UKAEA). 
+img: assets/img/publication_preview/obstacle.png
 importance: 2
 category: work
-giscus_comments: false
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
