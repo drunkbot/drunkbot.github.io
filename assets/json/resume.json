@@ -8,14 +8,23 @@
     "url": "",
     "summary": ""
   },
-  "work": [
+  "secondment and fellowship": [
     {
-      "name": "",
-      "position": "",
+      "name": "RAICo1",
+      "position": "Principal investigator/Robotic Researcher",
       "url": "",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "",
+      "startDate": "2024-06-01",
+      "endDate": "2024-12-31",
+      "summary": "Awarded as  RAICo Junior Fellow, lead the underwater obstacle avoidance project, aim to achieve cooperative obstacle without reliance on robot-robot communications.",
+      "highlights": []
+    },
+    {
+      "name": "The University of Tokyo and Japan Atomic Energy Agency",
+      "position": "Robotic Researcher",
+      "url": "",
+      "startDate": "2024-09-01",
+      "endDate": "2024-10-12",
+      "summary": "Awarded as NEST fellow at the end of the project, helped develop the autonomous patrolling system, and solved the narrow passage navigation issue with the priority control algorithm.",
       "highlights": []
     }
   ],
@@ -63,6 +72,20 @@
       "awarder": "Robotics Community, University of Manchester",
       "url": "",
       "summary": "For the paper presented at ICRA 2023."
+    },
+    {
+      "title": "Excellent Graduate Student",
+      "date": "2018-10-11",
+      "awarder": "Tongji University",
+      "url": "",
+      "summary": "5 out of 67 student was awarded. "
+    },
+    {
+      "title": "Provincial Excellent Graduates (省级优秀毕业生)",
+      "date": "2017-06-27",
+      "awarder": "The Education Department of Sichuan Province",
+      "url": "",
+      "summary": "The highest honor of college graduation in China (5‰). "
     }
   ],
   "skills": [
@@ -92,6 +115,16 @@
         "Windows",
         "Windows Subsystem Linux"
       ]
+    },{
+      "name": "Hardware/sensor",
+      "level": "All got hands on experience",
+      "keywords": [
+        "Pixhawk (Autopilot, ArduSub, IMU)",
+        "SICK 2D LiDAR sensor TiM5xx",
+        "Oculus M3000d multi-beam image sonar",
+        "Hydromea LUMA 500 optical communication modem",
+        "Camera (usb_cam, Intel Realsense)"
+      ]
     },
     {
       "name": "General software/package",
@@ -106,13 +139,11 @@
   "languages": [
     {
       "language": "Mandarin",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent"
     }
   ],
   "references": [
