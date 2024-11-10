@@ -18,25 +18,6 @@ University of Glasgow, Bristol Robotics Laboratory, Sellafield Ltd, RAICo1 Lab
 Created a mixed multi-robot fleet utilising a cyber-physical systems architecture in dynamic inspection, maintenance and repair missions.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/Tz_PNtG5CGE?si=zoj3DczYvm_kmCKz" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="caption">
-{% cite Mitchell2023 %}
-</div> 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/0EJ8Y8esQz0?si=kUeAilzkaYl_fio9" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-{% cite Baniqued2024 %}
-</div> 
-
-<div class="row">
   <div class="col-sm mt-3 mt-md-0">
     <div class="embed-responsive embed-responsive-16by9">
       {% include video.liquid path="https://www.youtube.com/embed/0EJ8Y8esQz0?si=kUeAilzkaYl_fio9" class="embed-responsive-item rounded z-depth-1" %}
@@ -45,6 +26,17 @@ Created a mixed multi-robot fleet utilising a cyber-physical systems architectur
 </div>
 <div class="caption">
   {% cite Baniqued2024 %}
+</div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="embed-responsive embed-responsive-16by9">
+      {% include video.liquid path="https://www.youtube.com/embed/Tz_PNtG5CGE?si=zoj3DczYvm_kmCKz" class="embed-responsive-item rounded z-depth-1" %}
+    </div>
+  </div>
+</div>
+<div class="caption">
+{% cite Mitchell2023 %}
 </div>
 
 <h3>Subsection 1.1</h3>
