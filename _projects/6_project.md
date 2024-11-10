@@ -27,3 +27,21 @@ Dr Nobuto Matsuhira from the University of Tokyo, and Young-woon Song from Pohan
 <div class="caption">
     Left is autonomous patrolling and right is priority control.
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/patrolling.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+</div>
+<div class="caption">
+    autonomous patrolling
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/priority_control.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+</div>
+<div class="caption">
+    priority control
+</div>
