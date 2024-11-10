@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Image-based Multi-agent Formation
+description: This project was conducted in TUHH, Germany, funded by UK Turing Scheme.
 img: assets/img/ibvs.png
 importance: 3
 category: work
