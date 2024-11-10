@@ -5,6 +5,7 @@ description: SARESE x RNE Research Sprint 2022.
 img: assets/img/1N3A6565.JPG
 importance: 3
 category: work
+related_publications: true
 ---
 
 <h2>Overview</h2>
@@ -22,12 +23,18 @@ Created a mixed multi-robot fleet utilising a cyber-physical systems architectur
     </div>
 </div>
 
+<div class="caption">
+{% cite Mitchell2023 %}
+</div> 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/0EJ8Y8esQz0" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/0EJ8Y8esQz0?si=kUeAilzkaYl_fio9" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
+<div class="caption">
+{% cite Baniqued2024 %}
+</div> 
 
 <h3>Subsection 1.1</h3>
 
