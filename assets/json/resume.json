@@ -22,11 +22,21 @@
   "education": [
     {
       "institution": "University of Manchester, Manchester, United Kingdom",
-      "area": "Robotics",
-      "studyType": "PhD",
+      "studyType": "PhD in Electrical and Electronic Engineering",
       "startDate": "2021-01-01",
-      "endDate": "2024-12-31",
-      "courses": ["Electrical and Electronic Engineering"]
+      "endDate": "2024-12-31"
+    },    
+    {
+      "institution": "Tongji University, Shanghai, China",
+      "studyType": "Master in Aerospace Engineering",
+      "startDate": "2017-09-01",
+      "endDate": "2020-07-31"
+    },    
+    {
+      "institution": "Xihua University, Chengdu, China",
+      "studyType": "Bachelor in Vehicle Engineering",
+      "startDate": "2013-09-01",
+      "endDate": "2017-07-31"
     }
   ],
   "awards": [
