@@ -9,8 +9,7 @@ related_publications: true
 ---
 
 <h2>Overview</h2>
-
-<p>Content of section 1.</p>
+In previous [project](https://drunkbot.github.io/projects/3_project/), we noticed that losing of LoS happens from time to time. 
 
 <h3>Subsection 1.1</h3>
 
