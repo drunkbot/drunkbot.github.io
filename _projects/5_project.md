@@ -19,5 +19,5 @@ Developed experiment protocol for characterisation wireless optical communicatio
     </div>
 </div>
 <div class="caption">
-    optical comms
+    Wireless operation of BlueROV using optical communication modems
 </div>

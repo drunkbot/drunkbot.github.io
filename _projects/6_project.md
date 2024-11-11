@@ -34,7 +34,7 @@ Dr Nobuto Matsuhira from the University of Tokyo, and Young-woon Song from Pohan
     </div>
 </div>
 <div class="caption">
-    autonomous patrolling
+    Autonomous patrolling
 </div>
 
 <div class="row">
@@ -43,5 +43,5 @@ Dr Nobuto Matsuhira from the University of Tokyo, and Young-woon Song from Pohan
     </div>
 </div>
 <div class="caption">
-    priority control
+    Priority control
 </div>

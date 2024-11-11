@@ -38,7 +38,3 @@ Created a mixed multi-robot fleet utilising a cyber-physical systems architectur
 <div class="caption">
 {% cite Mitchell2023 %}
 </div>
-
-<h3>Subsection 1.1</h3>
-
-<p>Content of subsection 1.1.</p>
