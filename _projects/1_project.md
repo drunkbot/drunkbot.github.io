@@ -9,11 +9,10 @@ related_publications: true
 ---
 
 <h2>Overview</h2>
-In previous [project](https://drunkbot.github.io/projects/3_project/), we noticed that losing of LoS happens from time to time. 
+In previous [project](https://drunkbot.github.io/projects/3_project/), we noticed that losing of LoS happens from time to time. To address this, we aim to develop a new approach that utilizes mutual camera views from both robots, rather than the traditional leader-follower model.
 
-<h3>Subsection 1.1</h3>
-
-<p>Content of subsection 1.1.</p>
+<h2>Result</h2>
+Details of our approach can be found in {% cite Yao2024a %}. The results are very promising, with significant performance improvements observed both in simulation and on physical platforms.
 
 
 <div class="row">
@@ -22,7 +21,7 @@ In previous [project](https://drunkbot.github.io/projects/3_project/), we notice
     </div>
 </div>
 <div class="caption">
-    VET video {% cite Yao2024a %}
+    Virtual Elastic Tether video {% cite Yao2024a %}
 </div>
 
 
