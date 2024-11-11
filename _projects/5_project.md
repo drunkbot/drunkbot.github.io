@@ -8,7 +8,7 @@ category: work
 ---
 
 <h2>Overview</h2>
-utlising Hydromea luma 500 wireless underwater communication system to achieve wireless remote controlling of underwater robot. Characterisation of such system shows hydromea luma 500 is not suitable for confined aquatic spaces, especially under the interference of artificial lights, such as LEDs and fluorescent lights.
+Utlising Hydromea luma 500 wireless underwater communication system to achieve wireless remote controlling of underwater robot. Characterisation of such system shows hydromea luma 500 is not suitable for confined aquatic spaces, especially under the interference of artificial lights, such as LEDs and fluorescent lights.
 
 <h2>My role</h2>
 Developed experiment protocol for characterisation wireless optical communication system.

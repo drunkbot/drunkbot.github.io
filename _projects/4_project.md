@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 <h2>Overview</h2>
-Development of mixed multi-robot fleet utilising a cyber-physical systems architecture in dynamic inspection, maintenance and repair missions. My role is to develop Tello Drone software for pre-inspecting simulated radioactive arenas, coordinating with multi-robot fleets, and interacting with a cyber system via ROS.
+About SARESE x RNE Research Sprint 2022 event: A group of robotics engineers meet together for a 5-day research sprint towards a symbiotic multi-robot fleet for the nuclear sector. My role was to develop Tello Drone software for pre-inspecting simulated radioactive arenas, coordinating with multi-robot fleets, and interacting with a cyber system via ROS.
 
 <h2>Collaborators</h2>
 University of Glasgow, Bristol Robotics Laboratory, Sellafield Ltd, RAICo1 Lab
