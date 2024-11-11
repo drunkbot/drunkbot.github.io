@@ -16,7 +16,7 @@ nav_order: 6
     </div>
 </div>
 <div class="caption">
-    Second prize at <a href="https://www.psrs.manchester.ac.uk/images/">Manchester Research Image Competition</a>. The orignial file can be found [here](https://pure.manchester.ac.uk/ws/portalfiles/portal/348668072/award_img.jpg).
+    Second prize at <a href="https://www.psrs.manchester.ac.uk/images/">Manchester Research Image Competition</a>. The orignial file can be found <a href="https://pure.manchester.ac.uk/ws/portalfiles/portal/348668072/award_img.jpg">here</a>.
 </div>
 
 <div class="row">
