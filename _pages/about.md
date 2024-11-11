@@ -21,5 +21,5 @@ I'm Kanzhong Yao, currently enrolled as PhD student at the [Robotics for Extreme
 
 I have experience working on various robotic platforms. In 2022, I completed a secondment at Hamburg University of Technology, working with the [HippoCampus robot](https://hippocampusrobotics.github.io/) under the support of UK [Turing Scheme](https://www.turing-scheme.org.uk/). In 2024,I was also awarded as [NEST Fellow](https://www.oecd-nea.org/jcms/pl_24314/fellows-nest) by the University of Tokyo and Japan Atomic Energy Agency (JAEA) for the development on multiple robot platform for radiation mapping and teleoperation at [Yamashita lab](https://www.robot.t.u-tokyo.ac.jp/yamalab), University of Tokyo, working with Pioneer 3-DX ground robots. Apart from that, I've also worked with [BlueROV2](https://robotki.github.io/robots.html#), [MallARD](https://uomrobotics.com/robots/mallard.html), DJI Tello (UAV), [El- MallARD](https://uomrobotics.com/onewebmedia/IEEE%20ICM-2019%20Aquatic%20Surface%20Vehicle.pdf) (land version of MallARD), Jackal.
 
-<h2>Research Statement</h2>
-I'm interest in making robots towards real-world applications. 
+<h2>Research Statement</h2> 
+I am interested in developing robots for real-world applications, particularly in challenging environments. In such environments, where sensor measurements can become unreliable, utilizing multiple robots can offer superior performance. Much of my previous work has aimed to achieve a similar level of autonomy as in standard environments but with reduced sensory information.
