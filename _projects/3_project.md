@@ -13,7 +13,8 @@ related_publications: true
 
 <p>Content of section 1.</p>
 
-<h3>Subsection 1.1</h3>
+<h2>Collaborators</h2>
+Dr. [Daniel A Duecker](https://scholar.google.com.au/citations?user=hjyu7FEAAAAJ&hl=en) from Hamburg University of Technology (now in Technical University of Munich), Nathalie Bauschmann and Thies L Alff from Hamburg University of Technolog.
 
 <p>Content of subsection 1.1.</p>
 
