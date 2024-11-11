@@ -14,7 +14,7 @@ About SARESE x RNE Research Sprint 2022 event: A group of robotics engineers mee
 <h2>Collaborators</h2>
 University of Glasgow, Bristol Robotics Laboratory, Sellafield Ltd, RAICo1 Lab
 
-<p>Outcome</p>
+<h2>Outcome</h2>
 Created a mixed multi-robot fleet utilising a cyber-physical systems architecture in dynamic inspection, maintenance and repair missions.
 
 <div class="row">
