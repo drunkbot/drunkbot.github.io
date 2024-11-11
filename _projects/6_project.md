@@ -25,7 +25,7 @@ Dr Nobuto Matsuhira from the University of Tokyo, and Young-woon Song from Pohan
     </div>
 </div>
 <div class="caption">
-    Left is autonomous patrolling and right is priority control.
+    Left shows the diagram of autonomous patrolling and on the right shows the narrow path that two robots got stuck.
 </div>
 
 <div class="row">
