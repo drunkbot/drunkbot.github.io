@@ -4,7 +4,6 @@ title: Wireless Underwater Communication
 description: Project that aims to enable wireless operating of underwater robots
 img: assets/img/tank.jpg
 importance: 6
-category: work
 ---
 
 <h2>Overview</h2>

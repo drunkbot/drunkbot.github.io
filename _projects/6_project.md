@@ -4,7 +4,6 @@ title: Patrol and Priority Control
 description: This project was conducted at the University of Tokyo. 
 img: assets/img/utokyo_cover.png
 importance: 5
-category: work
 ---
 
 

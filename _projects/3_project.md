@@ -4,7 +4,6 @@ title: Image-based Multi-agent Formation
 description: This project was conducted in TUHH, Germany, funded by UK Turing Scheme.
 img: assets/img/ibvs.png
 importance: 1
-category: work
 related_publications: true
 ---
 

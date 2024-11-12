@@ -4,7 +4,6 @@ title: Digital twin platform for cyber–physical robot fleets
 description: SARESE x RNE Research Sprint 2022.
 img: assets/img/1N3A6565.JPG
 importance: 4
-category: work
 related_publications: true
 ---
 

@@ -4,7 +4,6 @@ title: Anomaly Detection
 description: Mission-level encoder-decoder for anomaly detection
 img: assets/img/shivoh.png
 importance: 7
-category: work
 related_publications: false
 ---
 
