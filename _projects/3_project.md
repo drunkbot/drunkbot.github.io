@@ -12,7 +12,7 @@ related_publications: true
 Developed image-based visual servoing switchable leader-follower control for heterogeneous multi-agent underwater robot system, using BlueROV2 and HippoCampus, result published in {% cite Yao2023 %}.
 
 <h2>Collaborators</h2>
-Dr. [Daniel A Duecker](https://scholar.google.com.au/citations?user=hjyu7FEAAAAJ&hl=en) from Hamburg University of Technology (now in Technical University of Munich), [Nathalie Bauschmann](https://www.tuhh.de/mum/en/mitarbeiter/wissenschaftliche-mitarbeiter/nathalie-bauschmann) and [Thies L Alff](https://www.tuhh.de/mum/team/wimi/thies-lennart-alff) from Hamburg University of Technolog.
+Dr. [Daniel A Duecker](https://scholar.google.com.au/citations?user=hjyu7FEAAAAJ&hl=en) from Hamburg University of Technology (now in Technical University of Munich), [Nathalie Bauschmann](https://www.tuhh.de/mum/en/mitarbeiter/wissenschaftliche-mitarbeiter/nathalie-bauschmann) and [Thies L Alff](https://www.tuhh.de/mum/team/wimi/thies-lennart-alff) from Hamburg University of Technology.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
