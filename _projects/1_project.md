@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Virtual Elastic Tether
-description: Development of multi-agent navigatiion approach for confined aquatic spaces. Project funded by RAICo1 and Sellafield Ltd.
+description: Development of multi-agent <strong>navigatiion</strong> approach for confined aquatic spaces. Project funded by RAICo1 and Sellafield Ltd.
 img: assets/img/publication_preview/vet.png
 importance: 2
 related_publications: true
