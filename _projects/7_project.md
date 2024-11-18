@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anomaly Detection
-description: Mission-level encoder-decoder for anomaly detection
+description: Mission-level encoder-decoder for anomaly detection.
 img: assets/img/shivoh.png
 importance: 7
 related_publications: false
