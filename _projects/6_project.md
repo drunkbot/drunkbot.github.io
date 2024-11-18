@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Patrol and Priority Control
-description: Development of autonomous patrolling and priority control algorithm. Robots navigate with <strong>TEB planner</strong> and <strong>RSNP</strong>, object detection achieved by <strong>YOLO</strong>, robots communicate with each other via <strong>MQTT protocol</strong>. 
+description: Development of autonomous patrolling and priority control algorithm. Robots navigate with <strong>TEB planner</strong> and <strong>RSNP server</strong>, object detection achieved by <strong>YOLO</strong>, robots communicate with each other via <strong>MQTT protocol</strong>. 
 img: assets/img/utokyo_cover.png
 importance: 5
 ---
