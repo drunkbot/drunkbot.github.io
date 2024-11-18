@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Image-based Multi-agent Formation
-description: This project was conducted in TUHH, Germany, funded by UK Turing Scheme.
+description: Developed heterogeneous multi-agent leader-follower formation with <strong>image-based visual servoing</strong>. Validation conducted on physical <strong>platform</strong>.
 img: assets/img/ibvs.png
 importance: 1
 related_publications: true
