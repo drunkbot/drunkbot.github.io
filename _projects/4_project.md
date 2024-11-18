@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digital twin platform for cyber–physical robot fleets
-description: SARESE x RNE Research Sprint 2022. Key words, <strong>digital twin, teleoperation,  multi-robot fleet.</strong> 
+description: SARESE x RNE Research Sprint 2022. <strong>Key words, digital twin, teleoperation,  multi-robot fleet.</strong> 
 img: assets/img/1N3A6565.JPG
 importance: 4
 related_publications: true
