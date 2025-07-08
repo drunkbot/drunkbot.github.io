@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kanzhong Yao",
-    "label": "Robotic Researcher",
+    "label": "Robotics Researcher",
     "image": "",
     "email": "kanzhong.yao@gmail.com",
     "phone": "",
@@ -11,7 +11,7 @@
   "work": [
     {
       "name": "RAICo1",
-      "position": "Principal investigator/Robotic Researcher",
+      "position": "Principal investigator/Robotics Researcher",
       "url": "",
       "startDate": "2024-06-01",
       "endDate": "2024-12-31",
@@ -20,7 +20,7 @@
     },
     {
       "name": "The University of Tokyo and Japan Atomic Energy Agency",
-      "position": "Robotic Researcher",
+      "position": "Robotics Researcher",
       "url": "",
       "startDate": "2024-09-01",
       "endDate": "2024-10-12",
@@ -28,7 +28,7 @@
       "highlights": []
     },    {
       "name": "Hamburg University of Technology",
-      "position": "Robotic Researcher",
+      "position": "Robotics Researcher",
       "url": "",
       "startDate": "2022-01-31",
       "endDate": "2022-03-20",
