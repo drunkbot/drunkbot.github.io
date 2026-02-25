@@ -3,7 +3,7 @@ layout: page
 title: Wireless Underwater Communication
 description: Project that aims to enable wireless operating of underwater robots. <strong>Key words, TCP/UDP, teleoperation, optical communication.</strong>  
 img: assets/img/tank.jpg
-importance: 6
+importance: 7
 ---
 
 <h2>Overview</h2>

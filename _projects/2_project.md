@@ -3,7 +3,7 @@ layout: page
 title: Cooperative Obstacle Avoidance
 description: Development of <strong>fully distributed multi-agent obstacle avoidance</strong> approach utilising camera, LiDAR, and imaging sonar. Validation includes full <strong>Gazebo</strong> simulation and targeting physical implementation.
 img: assets/img/obstacle.png
-importance: 3
+importance: 4
 related_publications: true
 ---
 

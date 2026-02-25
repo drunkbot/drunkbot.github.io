@@ -3,7 +3,7 @@ layout: page
 title: Image-based Multi-agent Formation
 description: Developed heterogeneous multi-agent leader-follower formation with <strong>image-based visual servoing</strong>. Validation conducted on physical <strong>platform</strong>.
 img: assets/img/ibvs.png
-importance: 1
+importance: 2
 related_publications: true
 ---
 

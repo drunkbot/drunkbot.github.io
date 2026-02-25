@@ -3,7 +3,7 @@ layout: page
 title: Virtual Elastic Tether
 description: Development of <strong>multi-agent navigation</strong> approach for confined aquatic spaces, under <strong>limited sensory information</strong>. Validation includes full <strong>Gazebo</strong> simulation and <strong>physical implementation</strong>.
 img: assets/img/publication_preview/vet.png
-importance: 2
+importance: 3
 related_publications: true
 ---
 
