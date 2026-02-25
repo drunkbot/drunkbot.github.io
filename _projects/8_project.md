@@ -2,7 +2,7 @@
 layout: page
 title: TeleAqua
 description: Development of <strong>TeleAqua Series</strong>  — a new generation of cross-medium robotic platforms.
-img: assets/img/publication_preview/cover.jpg
+img: assets/img/cover.jpg
 importance: 1
 related_publications: true
 ---
